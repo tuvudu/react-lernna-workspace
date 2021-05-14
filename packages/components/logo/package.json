@@ -1,0 +1,12 @@
+{
+  "name": "@kindy/logo",
+  "version": "1.0.0",
+  "description": "Base fonts",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
